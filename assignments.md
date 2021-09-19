@@ -1,7 +1,7 @@
 ---
 title: Assignments
 layout: default
-start: 01 Sep 2020, 00:00 (Europe/Zurich)
+start: 19 Sep 2021, 00:00 (Europe/Zurich)
 index: 3
 ---
 
@@ -9,7 +9,11 @@ index: 3
 
 Over the course of the semester, we will post five assignments that will require you to code up five moderately complex Scala applications (one per each assignment) that highlight certain theoretical aspects of the course.
 
-Every assignment will become available on this website at due time (usually after the deadline of the previous assignment). We will be notifying you about the arrival of new assignments on the [mailing list](/index.html#mailing-list), so be sure to join it.
+Every assignment will become available on this website at due time (usually after the deadline of the previous assignment). We will be notifying you about new assignments through Moodle.
+
+<!--
+We will be notifying you about the arrival of new assignments on the [mailing list](/index.html#mailing-list), so be sure to join it.
+-->
 
 ### Team Registration
 
@@ -26,11 +30,14 @@ All development during the course will be done in Scala. Here we provide the ins
 how to setup the Scala development tools.
 
 First, you need to install [the sbt build tool](http://www.scala-sbt.org/download.html).
+See the instructions for installing JVM, Scala and SBT [here](https://gitlab.epfl.ch/lamp/cs206/-/blob/master/labs/tools-setup.md#step-2-installing-the-java-development-kit-jdk-and-sbt-via-coursier).
 You can run `sbt compile` and `sbt run` in the console to compile and run the project.
 
 We recommend using [VS Code](https://code.visualstudio.com/) with the
 extension [Metals](https://marketplace.visualstudio.com/items?itemName=scalameta.metals)
-for development. It suffices to open the assignment directory in VS Code.
+for development.
+You can find instructions for installing VS Code [here](https://gitlab.epfl.ch/lamp/cs206/-/blob/master/labs/tools-setup.md#step-6-installing-code).
+It suffices to install Metals and open the assignment directory in VS Code.
 
 You can also use [IntelliJ IDEA](https://www.jetbrains.com/idea/download) for development.
 You can import the project into the IDE:
@@ -50,9 +57,9 @@ as long as your project passes our tests.
 1. Register your team, if you haven't done so already. Note that the teams are updated manually, so if you just registered, the bot should be updated the next (more-or-less) morning.
 -->
 
-1. Zip your project directory, making sure that:
+1. Zip the `src` directory, making sure that:
   * you haven't created or removed any files from the provided template for the corresponding project. For instance, if the template contained files Arithmetic.scala and Terms.scala in /src/main/scala/fos, don't move these files around or create additional helper files.
-  * you don't zip the `target` directory, which contains binary files that might trip Google's anti-virus.
+  * you don't zip any other directory, in particular the `target` directory, which contains binary files that might trip Google's anti-virus.
 
 1. Send the archive produced during the previous step to grading bot's email address: [lamp.fos.bot@gmail.com](mailto:lamp.fos.bot@gmail.com)
   * The subject of the email should be "Project X (YYYYYY, ZZZZZZ, ...)", where X is the number of the project, and YYYYYY/ZZZZZZ/... are SCIPER numbers of the authors.

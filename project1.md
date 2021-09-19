@@ -1,13 +1,13 @@
 ---
 title: Project 1 - The NB Language
 layout: default
-start: 21 Sep 2020, 00:00 (Europe/Zurich)
+start: 19 Sep 2021, 00:00 (Europe/Zurich)
 index: 4
 ---
 
 # Project 1: The NB Language
 
-**Hand in:** 12 Oct 2020, 23:59 (Europe/Zurich)
+**Hand in:** 12 Oct 2021, 23:59 (Europe/Zurich)
 
 **Project template:** [1-arithmetic.zip](projects/1-arithmetic.zip)
 
