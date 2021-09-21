@@ -5,6 +5,10 @@ start: 19 Sep 2021, 00:00 (Europe/Zurich)
 index: 2
 ---
 
+## Videos
+
+You can find lecture videos [here](https://tube.switch.ch/channels/1c35e229?order=oldest-first&view=list&return_to=).
+
 ## Documents
 
 

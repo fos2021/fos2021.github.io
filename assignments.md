@@ -66,7 +66,13 @@ as long as your project passes our tests.
   * The body of the email doesn't matter, because our grading bot can't read.
   * Don't forget the attachment.
 
-1. Wait for a response from the grading bot. The response will either contain a rejection notice along with the detailed error message or an acceptance notice with the results of running your submission against our test suite.
+1. Wait for a response from the grading bot. You should receive _two_
+responses - first one indicates that your email has reached the bot's inbox and
+so got past Google's anti-virus. Second response will either contain a rejection
+notice along with the detailed error message or an acceptance notice with the
+results of running your submission against our test suite. The bot should
+normally respond in less than five minutes, although depending on the current
+load it could take longer.
 
 1. If you don't receive a response from the bot, or you get your submission rejected without a good reason, contact the staff.
 
