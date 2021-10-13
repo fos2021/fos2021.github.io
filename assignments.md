@@ -57,15 +57,7 @@ as long as your project passes our tests.
 1. Register your team, if you haven't done so already. Note that the teams are updated manually, so if you just registered, the bot should be updated the next (more-or-less) morning.
 -->
 
-1. Zip the `src` directory, making sure that:
-  * you haven't created or removed any files from the provided template for the corresponding project. For instance, if the template contained files Arithmetic.scala and Terms.scala in /src/main/scala/fos, don't move these files around or create additional helper files.
-  * you don't zip any other directory, in particular the `target` directory, which contains binary files that might trip Google's anti-virus.
-
-1. Send the archive produced during the previous step to grading bot's email address: [lamp.fos.bot@gmail.com](mailto:lamp.fos.bot@gmail.com)
-  * The subject of the email should be "Project X (YYYYYY, ZZZZZZ, ...)", where X is the number of the project, and YYYYYY/ZZZZZZ/... are SCIPER numbers of the authors.
-  * The body of the email doesn't matter, because our grading bot can't read.
-  * Don't forget the attachment.
-
+1. Send your project to the grading bot. You can do so by running the `submit.py` script in the project directory, or manually by following the steps you can find a bit below.
 1. Wait for a response from the grading bot. You should receive _two_
 responses - first one indicates that your email has reached the bot's inbox and
 so got past Google's anti-virus. Second response will either contain a rejection
@@ -77,6 +69,17 @@ load it could take longer.
 1. If you don't receive a response from the bot, or you get your submission rejected without a good reason, contact the staff.
 
 1. If you're not content with your results, follow the instructions in the reply email to try and improve your score. You can retry the submission as many times as you want before the deadline hits, and that won't result in any penalties to your final score.
+
+#### Submitting manually
+
+1. Zip the `src` directory, making sure that:
+  * you haven't created or removed any files from the provided template for the corresponding project. For instance, if the template contained files Arithmetic.scala and Terms.scala in /src/main/scala/fos, don't move these files around or create additional helper files.
+  * you don't zip any other directory, in particular the `target` directory, which contains binary files that might trip Google's anti-virus.
+1. Send the archive produced during the previous step to grading bot's email address: [lamp.fos.bot@gmail.com](mailto:lamp.fos.bot@gmail.com)
+  * The subject of the email should be "Project X (YYYYYY, ZZZZZZ, ...)", where X is the number of the project, and YYYYYY/ZZZZZZ/... are SCIPER numbers of the authors.
+  * The body of the email doesn't matter, because our grading bot can't read.
+  * Don't forget the attachment.
+
 
 ### Late submissions
 
