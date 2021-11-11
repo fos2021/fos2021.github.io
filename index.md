@@ -59,11 +59,11 @@ The schedule below is, to a small extent, still provisional.
 | 45th week | Tue, 9 Nov  | Lecture on *Recursion and State with STLC*                                  |
 |           | Wed, 10 Nov | Exercise session on *simply typed lambda calculus with extensinos*          |
 | 46th week | Tue, 16 Nov | Lecture on *Type Reconstruction and Polymorphism*                           |
-|           | Wed, 17 Nov | TBA                                                                         |
+|           | Wed, 17 Nov | Pen & paper exercise session #2                                             |
 | 47th week | Tue, 23 Nov | Lecture on *Subtyping*                                                      |
 |           | Wed, 24 Nov | Exercise session on *simply typed lambda calculus with Type Reconstruction* |
 | 48th week | Tue, 30 Nov | Lecture on *Objects*                                                        |
-|           | Wed, 1 Dec  | Pen & paper exercise session #2                                             |
+|           | Wed, 1 Dec  | Secret!                                                                     |
 | 49th week | Tue, 7 Dec  | Lecture on *Featherweight Java*                                             |
 |           | Wed, 8 Dec  | Exercise session on *simply typed lambda calculus with Type Reconstruction* |
 | 50th week | Tue, 14 Dec | Lecture on *Foundations of Scala*                                           |
