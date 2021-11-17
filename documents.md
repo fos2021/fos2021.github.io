@@ -166,7 +166,7 @@ and [solutions](slides/penpaper-midterm-1-sol.pdf).
 
 ### Pen & Paper #2
 
-Download [exercises](slides/penpaper-midterm2020-2.pdf).
+Download [exercises](slides/penpaper-midterm2021-2.pdf).
 
 <!--
 and [solutions](slides/midterm2019.pdf).
