@@ -70,7 +70,7 @@ The schedule below is, to a small extent, still provisional.
 |           | Wed, 15 Dec | Pen & paper exercise session #3                                             |
 | 51st week | Tue, 21 Dec | Lecture on *Foundations of Scala*                                           |
 |           | Wed, 22 Dec | Pen & paper exercise session #4                                             |
-| ?         | TBD         | Final                                                                       |
+|           | Thu, Jan 27 | Final exam (8:15 - 11:15)                                                    |
 
 Lecture notes and pen & paper session exercises are available in [documents section](/documents.html).
 
