@@ -7,7 +7,7 @@ index: 8
 
 # Project 5: STLC with Type Reconstruction
 
-**Hand in:** 17 Dec 2021, 23:59 (Europe/Zurich)<br/>
+**Hand in:** 24 Dec 2021, 23:59 (Europe/Zurich)<br/>
 **Project template:** [5-inference.zip](projects/5-inference.zip)
 
 In this exercise, you will write a Hindley-Milner type inferencer for a modification of the simply typed λ-calculus
